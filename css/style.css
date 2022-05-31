@@ -5,13 +5,13 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: 'Poppins', sans-serif;
-  --font-secondary: 'Arvo', serif;
+  --font-primary: 'Arvo', sans-serif;
+  --font-secondary: 'Roboto', serif;
   --font-code: 'Roboto', monospace;
-  --bg-color: #00163f;
+  --bg-color: #4873c2;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
-  --accent-color: #be7efe;
+  --accent-color: #000000;
   --header-shadow: #000 0px 0px 5px;
 }
 
@@ -180,4 +180,3 @@ section {
     font-size: 1rem;
   }
 }
- 
